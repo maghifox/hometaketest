@@ -24,8 +24,10 @@ ORDER BY b.emp_income desc
 ```
 
 2. Automation with Selenium TestNG in Java and Cucumber
+![image](https://github.com/maghifox/hometaketest/assets/48327678/cada2b26-b020-4624-b24c-9e180fa93294)
 
 
 3. API testing with KarateLabs
+![image](https://github.com/maghifox/hometaketest/assets/48327678/54718b15-6940-4645-a1e6-a9e30625b2ec)
 
 
